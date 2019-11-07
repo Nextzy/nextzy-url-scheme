@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nextzy-url-scheme/static/css/main.38be337b.chunk.css",
+    "main.js": "/nextzy-url-scheme/static/js/main.fdd25384.chunk.js",
+    "main.js.map": "/nextzy-url-scheme/static/js/main.fdd25384.chunk.js.map",
+    "runtime-main.js": "/nextzy-url-scheme/static/js/runtime-main.0472ffdd.js",
+    "runtime-main.js.map": "/nextzy-url-scheme/static/js/runtime-main.0472ffdd.js.map",
+    "static/css/2.7ececfe9.chunk.css": "/nextzy-url-scheme/static/css/2.7ececfe9.chunk.css",
+    "static/js/2.b84db2d8.chunk.js": "/nextzy-url-scheme/static/js/2.b84db2d8.chunk.js",
+    "static/js/2.b84db2d8.chunk.js.map": "/nextzy-url-scheme/static/js/2.b84db2d8.chunk.js.map",
+    "index.html": "/nextzy-url-scheme/index.html",
+    "precache-manifest.0d8b23d367d56fc15478c28fd3b992ee.js": "/nextzy-url-scheme/precache-manifest.0d8b23d367d56fc15478c28fd3b992ee.js",
+    "service-worker.js": "/nextzy-url-scheme/service-worker.js",
+    "static/css/2.7ececfe9.chunk.css.map": "/nextzy-url-scheme/static/css/2.7ececfe9.chunk.css.map",
+    "static/css/main.38be337b.chunk.css.map": "/nextzy-url-scheme/static/css/main.38be337b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0472ffdd.js",
+    "static/css/2.7ececfe9.chunk.css",
+    "static/js/2.b84db2d8.chunk.js",
+    "static/css/main.38be337b.chunk.css",
+    "static/js/main.fdd25384.chunk.js"
+  ]
+}
